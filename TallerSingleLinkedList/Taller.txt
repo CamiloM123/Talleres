@@ -1,0 +1,6 @@
+
+Crear un menu de opciones con estos tres puntos
+
+1. Manejando Linked List, el usuario ingresa la posición o el indice del nodo a consultar, hallar la raiz cuadrada del nodo, y añadirlo al inicio de la lista (float)
+2. Teniendo en cuenta el indice de la lista que lo brinda el usuario, eliminar ese nodo y crear un nuevo nodo al final de la lista con este valor elevado al cuadrado.
+3. Invertir el orden de la lista: 5 - 9 - 11- 4 y quedaría 4 - 11 - 9 - 5
